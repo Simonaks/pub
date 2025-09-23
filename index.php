@@ -6,6 +6,13 @@
     <title>Document</title>
 </head>
 <body>
+    <header>
+        <nav>
+            <a href="index.php">Home</a>
+            <a href="about.php">About</a>
+            <a href="contact.php">Contact</a>
+        </nav>
+    </header>
     
     <h1>Welcome to the Homepage</h1>
     
