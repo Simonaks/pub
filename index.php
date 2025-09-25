@@ -16,6 +16,7 @@
 
     
     <h1>Welcome   to   bord    intob the     Homepage</h1>
+    <section></section>
     
     
 </body>
