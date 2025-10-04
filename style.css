@@ -1,15 +1,17 @@
 body {
     font-family: 'Helvetica Neue', sans-serif;
     color: #333;
+    background-color: #f8f9fa;
 }
 
 section {
     scroll-margin-top: 56px;
+    padding: 60px 0;
 }
 
 .hero-section {
     position: relative;
-    background: url('https://source.unsplash.com/1600x900/?cocktails') no-repeat center center;
+    background: url('https://source.unsplash.com/1600x900/?agriculture,sustainable') no-repeat center center;
     background-size: cover;
     color: white;
     padding: 150px 0;
@@ -37,28 +39,28 @@ section {
 }
 
 .btn-primary {
-    background-color: #c5a47e;
-    border-color: #c5a47e;
+    background-color: #28a745;
+    border-color: #28a745;
 }
 
 .btn-primary:hover {
-    background-color: #b3936d;
-    border-color: #b3936d;
+    background-color: #218838;
+    border-color: #218838;
 }
 
 .btn-secondary {
-    background-color: transparent;
-    border-color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
     color: #fff;
 }
 
 .btn-secondary:hover {
-    background-color: #fff;
-    color: #000;
+    background-color: #5a6268;
+    border-color: #5a6268;
 }
 
 h2 {
-    color: #c5a47e;
+    color: #28a745;
 }
 
 .service-item {
@@ -93,4 +95,8 @@ h2 {
 
 footer {
     background-color: #222;
+}
+
+footer p {
+    color: #fff;
 }
