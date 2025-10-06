@@ -8,4 +8,5 @@ for ($i = 2; $i -le 10; $i++) {
   git add index.html
   git commit -m "Add comment $i"
   git push origin main
+  Write-Host "Comment $i added to index.html"
 }
