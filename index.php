@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+    <!-- Header section with navigation -->
     <header>
         <nav>
             <a href="index.php">Home</a>
@@ -15,9 +16,10 @@
     </header>
 
     
+<!-- Main content section -->
 <h1>Welcome to bord intob the Homepage</h1>
     <section>
-
+        <!-- Main content goes here -->
     </section>
     
     

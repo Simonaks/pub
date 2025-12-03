@@ -1,3 +1,4 @@
+/* Global styles for the body */
 body {
     font-family: 'Helvetica Neue', sans-serif;
     color: #333;
@@ -6,11 +7,13 @@ body {
     padding: 0;
 }
 
+/* Section styling with scroll margin for navigation */
 section {
     scroll-margin-top: 56px;
     padding: 60px 0;
 }
 
+/* Hero section with background image */
 .hero-section {
     position: relative;
     background: url('https://source.unsplash.com/1600x900/?agriculture,sustainable') no-repeat center center;
@@ -20,6 +23,7 @@ section {
     text-align: center;
 }
 
+/* Overlay for the hero section background */
 .hero-section::before {
     content: '';
     position: absolute;
@@ -30,41 +34,49 @@ section {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
+/* Ensure content is above the background overlay */
 .hero-section .container {
     position: relative;
     z-index: 1;
 }
 
+/* Large heading for the hero section */
 .hero-section h1 {
     font-size: 4.5rem;
     font-weight: bold;
 }
 
+/* Primary button styling */
 .btn-primary {
     background-color: #28a745;
     border-color: #28a745;
 }
 
+/* Primary button hover state */
 .btn-primary:hover {
     background-color: #218838;
     border-color: #218838;
 }
 
+/* Secondary button styling */
 .btn-secondary {
     background-color: #6c757d;
     border-color: #6c757d;
     color: #fff;
 }
 
+/* Secondary button hover state */
 .btn-secondary:hover {
     background-color: #5a6268;
     border-color: #5a6268;
 }
 
+/* Section heading color */
 h2 {
     color: #28a745;
 }
 
+/* Service item card styling */
 .service-item {
     padding: 20px;
     border: 1px solid #eee;
@@ -73,32 +85,39 @@ h2 {
     transition: transform 0.3s;
 }
 
+/* Hover effect for service items */
 .service-item:hover {
     transform: translateY(-5px);
 }
 
+/* Menu card styling */
 #menu .card {
     border: none;
     transition: box-shadow 0.3s;
 }
 
+/* Menu card hover effect */
 #menu .card:hover {
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
 }
 
+/* Gallery image styling */
 #gallery img {
     border-radius: 5px;
     transition: transform 0.3s;
 }
 
+/* Gallery image hover effect */
 #gallery img:hover {
     transform: scale(1.05);
 }
 
+/* Footer styling */
 footer {
     background-color: #222;
 }
 
+/* Footer text color */
 footer p {
     color: #fff;
 }
