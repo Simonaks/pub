@@ -198,3 +198,7 @@ Comment 97
 Comment 98
 Comment 99
 Comment 100
+### Mise à jour #1
+- Ajout d'une ligne de documentation.
+- Révision automatique du contenu.
+
