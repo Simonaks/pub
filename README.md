@@ -334,3 +334,7 @@
 - Ajout d'une ligne de documentation.
 - Révision automatique du contenu.
 
+### Mise à jour #86
+- Ajout d'une ligne de documentation.
+- Révision automatique du contenu.
+
