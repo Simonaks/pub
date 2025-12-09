@@ -694,3 +694,7 @@
 - Ajout d'une ligne de documentation.
 - Révision automatique du contenu.
 
+### Mise à jour #76
+- Ajout d'une ligne de documentation.
+- Révision automatique du contenu.
+
