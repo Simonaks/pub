@@ -814,3 +814,7 @@
 - Ajout d'une ligne de documentation.
 - Révision automatique du contenu.
 
+### Mise à jour #6
+- Ajout d'une ligne de documentation.
+- Révision automatique du contenu.
+
