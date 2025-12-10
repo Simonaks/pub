@@ -918,3 +918,7 @@
 - Ajout d'une ligne de documentation.
 - Révision automatique du contenu.
 
+### Mise à jour #8
+- Ajout d'une ligne de documentation.
+- Révision automatique du contenu.
+
