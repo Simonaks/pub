@@ -1030,3 +1030,7 @@
 - Ajout d'une ligne de documentation.
 - Révision automatique du contenu.
 
+### Mise à jour #36
+- Ajout d'une ligne de documentation.
+- Révision automatique du contenu.
+
