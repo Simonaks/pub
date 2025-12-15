@@ -1602,3 +1602,7 @@
 - Ajout d'une ligne de documentation.
 - Révision automatique du contenu.
 
+### Mise à jour #14
+- Ajout d'une ligne de documentation.
+- Révision automatique du contenu.
+
